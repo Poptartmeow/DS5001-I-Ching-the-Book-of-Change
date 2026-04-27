@@ -1,0 +1,16 @@
+name: ds5001-iching
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.13
+  - ipython
+  - gensim
+  - matplotlib
+  - nltk
+  - numpy
+  - pandas
+  - scipy
+  - seaborn
+  - scikit-learn
+  - pip
